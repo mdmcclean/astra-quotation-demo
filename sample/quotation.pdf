@@ -1,0 +1,61 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 1767 >>
+stream
+0.06 0.12 0.20 rg 0 690 612 102 re f
+1 1 1 rg BT /F2 25 Tf 1 0 0 1 42 754 Tm (QUOTATION) Tj ET
+0.75 0.87 0.94 rg BT /F1 11 Tf 1 0 0 1 42 727 Tm (AST-000001  |  2026-11-12) Tj ET
+0.12 0.17 0.24 rg BT /F2 13 Tf 1 0 0 1 42 668 Tm (Example Supplier \(fictional\)) Tj ET
+0.12 0.17 0.24 rg BT /F1 10 Tf 1 0 0 1 42 646 Tm (Prepared for: Example Field Services \(fictional\)) Tj ET
+0.12 0.17 0.24 rg BT /F2 9 Tf 1 0 0 1 42 600 Tm (DESCRIPTION) Tj ET
+0.12 0.17 0.24 rg BT /F2 9 Tf 1 0 0 1 365 600 Tm (QTY) Tj ET
+0.12 0.17 0.24 rg BT /F2 9 Tf 1 0 0 1 417 600 Tm (UNIT USD) Tj ET
+0.12 0.17 0.24 rg BT /F2 9 Tf 1 0 0 1 505 600 Tm (AMOUNT) Tj ET
+0.75 0.80 0.86 RG 42 590 m 570 590 l S
+0.12 0.17 0.24 rg BT /F2 9 Tf 1 0 0 1 42 35 Tm (SYNTHETIC SAMPLE - NOT A BILL) Tj ET
+0.12 0.17 0.24 rg BT /F1 9 Tf 1 0 0 1 520 35 Tm (Page 1) Tj ET
+0.12 0.17 0.24 rg BT /F1 10 Tf 1 0 0 1 42 570 Tm (Example inspection visit) Tj ET
+0.12 0.17 0.24 rg BT /F1 9 Tf 1 0 0 1 365 570 Tm (2) Tj ET
+0.12 0.17 0.24 rg BT /F1 9 Tf 1 0 0 1 417 570 Tm ($125.00) Tj ET
+0.12 0.17 0.24 rg BT /F1 9 Tf 1 0 0 1 505 570 Tm ($250.00) Tj ET
+0.12 0.17 0.24 rg BT /F1 10 Tf 1 0 0 1 42 542 Tm (Example preparation hours) Tj ET
+0.12 0.17 0.24 rg BT /F1 9 Tf 1 0 0 1 365 542 Tm (1.50) Tj ET
+0.12 0.17 0.24 rg BT /F1 9 Tf 1 0 0 1 417 542 Tm ($60.00) Tj ET
+0.12 0.17 0.24 rg BT /F1 9 Tf 1 0 0 1 505 542 Tm ($90.00) Tj ET
+0.12 0.17 0.24 rg BT /F1 11 Tf 1 0 0 1 355 494 Tm (Subtotal) Tj ET
+0.12 0.17 0.24 rg BT /F1 11 Tf 1 0 0 1 475 494 Tm ($340.00) Tj ET
+0.12 0.17 0.24 rg BT /F1 11 Tf 1 0 0 1 355 470 Tm (Tax \(8.25%\)) Tj ET
+0.12 0.17 0.24 rg BT /F1 11 Tf 1 0 0 1 475 470 Tm ($28.05) Tj ET
+0.12 0.17 0.24 rg BT /F2 11 Tf 1 0 0 1 355 446 Tm (TOTAL USD) Tj ET
+0.12 0.17 0.24 rg BT /F2 11 Tf 1 0 0 1 475 446 Tm ($368.05) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000000260 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2215
+%%EOF

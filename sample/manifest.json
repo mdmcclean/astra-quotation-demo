@@ -1,0 +1,10 @@
+{
+  "number": "AST-000001",
+  "request_id": "demo-001",
+  "total_cents": 36805,
+  "sha256": {
+    "quotation.pdf": "a54e905e18b00ddae2917013f2624c4e55537e59f5198799513a3f46ef1fb9fb",
+    "quotation.csv": "124dba6f1072f7868761b7be0b08c2e17b9774434e77bb72b07fd2a210313d1f",
+    "quotation.json": "40e88a09391f79595548b075ba89e6f01075c72502d19ded4a7cbd63c59f0a22"
+  }
+}

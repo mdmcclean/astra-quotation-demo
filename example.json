@@ -1,0 +1,12 @@
+{
+  "seller": "Example Supplier (fictional)",
+  "customer": "Example Field Services (fictional)",
+  "date": "2026-11-12",
+  "currency": "USD",
+  "tax_basis_points": 825,
+  "sample": true,
+  "items": [
+    {"description": "Example inspection visit", "quantity": "2", "unit_price_cents": 12500},
+    {"description": "Example preparation hours", "quantity": "1.50", "unit_price_cents": 6000}
+  ]
+}

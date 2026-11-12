@@ -1,0 +1,6 @@
+quote_number,row_type,description,quantity,unit_price_cents,amount_cents,currency
+AST-000001,item,Example inspection visit,2,12500,25000,USD
+AST-000001,item,Example preparation hours,1.50,6000,9000,USD
+AST-000001,subtotal_cents,,,,34000,USD
+AST-000001,tax_cents,,,,2805,USD
+AST-000001,total_cents,,,,36805,USD
